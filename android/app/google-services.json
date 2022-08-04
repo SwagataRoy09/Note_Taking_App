@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "342211335866",
+    "firebase_url": "https://notestakingapp-aaa88-default-rtdb.firebaseio.com",
+    "project_id": "notestakingapp-aaa88",
+    "storage_bucket": "notestakingapp-aaa88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342211335866:android:08a990918a7a8340349483",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342211335866-v5rhhbi7mmcp9g5i72ek3fdfha2q2tkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ96f1E5C-fhuVBpDPGkvDhZ1xR8yjZ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342211335866-v5rhhbi7mmcp9g5i72ek3fdfha2q2tkt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342211335866-7k7k8i7u36nj3upebv9qmqpaub7mlkam.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notetakingapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342211335866:android:52868cec024bba0b349483",
+        "android_client_info": {
+          "package_name": "com.example.notetakingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342211335866-v5rhhbi7mmcp9g5i72ek3fdfha2q2tkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ96f1E5C-fhuVBpDPGkvDhZ1xR8yjZ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342211335866-v5rhhbi7mmcp9g5i72ek3fdfha2q2tkt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342211335866-7k7k8i7u36nj3upebv9qmqpaub7mlkam.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notetakingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
