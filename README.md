@@ -16,8 +16,3 @@ In this application author has used FIREBASE REALTIME DATABASE to store the data
 - FIREBASE REALTIME DATABASE
 
 
-## APPLICATION VIDEO
-
-https://user-images.githubusercontent.com/93351450/182856680-6941f317-0a69-4a07-b182-b884432d00e4.mp4
-
-
