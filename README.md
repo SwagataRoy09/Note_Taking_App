@@ -1,5 +1,5 @@
 
-# NOTE TAKING APP
+# iNotes
 
 Notes are very integral part of our life as its very 
 often that we learn something new and tend to forget or 
@@ -21,7 +21,7 @@ project is proper blend of **State Management in Flutter** and
 - CROSS PLATFORM
 
 
-## TOOLS USED
+## Tools Used
 
 - FLUTTER
 - FIREBASE REALTIME DATABASE
@@ -39,6 +39,12 @@ The dependencies you need too add for the project ( as used by author ) :
   flutter_animated_dialog: ^2.0.1
 ```
     
+## Screenshots
+
+<a href="https://postimg.cc/8FcvspsP" target="_blank"><img src="https://i.postimg.cc/8FcvspsP/10.jpg" alt="10"/></a> <a href="https://postimg.cc/47hhbWzD" target="_blank"><img src="https://i.postimg.cc/47hhbWzD/11.jpg" alt="11"/></a> <a href="https://postimg.cc/2LRLHnGV" target="_blank"><img src="https://i.postimg.cc/2LRLHnGV/12.jpg" alt="12"/></a> <a href="https://postimg.cc/vgpfpJY8" target="_blank"><img src="https://i.postimg.cc/vgpfpJY8/2.jpg" alt="2"/></a><br/><br/>
+<a href="https://postimg.cc/NLH11jDK" target="_blank"><img src="https://i.postimg.cc/NLH11jDK/3.jpg" alt="3"/></a> <a href="https://postimg.cc/rdHrrBtG" target="_blank"><img src="https://i.postimg.cc/rdHrrBtG/4.jpg" alt="4"/></a> <a href="https://postimg.cc/2VdhK9Pm" target="_blank"><img src="https://i.postimg.cc/2VdhK9Pm/5.jpg" alt="5"/></a> <a href="https://postimg.cc/K3BBF0jP" target="_blank"><img src="https://i.postimg.cc/K3BBF0jP/6.jpg" alt="6"/></a><br/><br/>
+<a href="https://postimg.cc/nX07HjFP" target="_blank"><img src="https://i.postimg.cc/nX07HjFP/7.jpg" alt="7"/></a> <a href="https://postimg.cc/jLYyvY3Z" target="_blank"><img src="https://i.postimg.cc/jLYyvY3Z/8.jpg" alt="8"/></a> <a href="https://postimg.cc/CRFkTHg8" target="_blank"><img src="https://i.postimg.cc/CRFkTHg8/9.jpg" alt="9"/></a> <a href="https://postimg.cc/WFNSSFNm" target="_blank"><img src="https://i.postimg.cc/WFNSSFNm/1.jpg" alt="1"/></a><br/><br/>
+
 ## Colours
 The following colours have been  used for the UI of this project
  
@@ -59,11 +65,7 @@ Color(0xfffffcf2),
 Color(0xfffff3ef)
 
   ```
-## Screenshots
 
-<a href="https://postimg.cc/8FcvspsP" target="_blank"><img src="https://i.postimg.cc/8FcvspsP/10.jpg" alt="10"/></a> <a href="https://postimg.cc/47hhbWzD" target="_blank"><img src="https://i.postimg.cc/47hhbWzD/11.jpg" alt="11"/></a> <a href="https://postimg.cc/2LRLHnGV" target="_blank"><img src="https://i.postimg.cc/2LRLHnGV/12.jpg" alt="12"/></a> <a href="https://postimg.cc/vgpfpJY8" target="_blank"><img src="https://i.postimg.cc/vgpfpJY8/2.jpg" alt="2"/></a><br/><br/>
-<a href="https://postimg.cc/NLH11jDK" target="_blank"><img src="https://i.postimg.cc/NLH11jDK/3.jpg" alt="3"/></a> <a href="https://postimg.cc/rdHrrBtG" target="_blank"><img src="https://i.postimg.cc/rdHrrBtG/4.jpg" alt="4"/></a> <a href="https://postimg.cc/2VdhK9Pm" target="_blank"><img src="https://i.postimg.cc/2VdhK9Pm/5.jpg" alt="5"/></a> <a href="https://postimg.cc/K3BBF0jP" target="_blank"><img src="https://i.postimg.cc/K3BBF0jP/6.jpg" alt="6"/></a><br/><br/>
-<a href="https://postimg.cc/nX07HjFP" target="_blank"><img src="https://i.postimg.cc/nX07HjFP/7.jpg" alt="7"/></a> <a href="https://postimg.cc/jLYyvY3Z" target="_blank"><img src="https://i.postimg.cc/jLYyvY3Z/8.jpg" alt="8"/></a> <a href="https://postimg.cc/CRFkTHg8" target="_blank"><img src="https://i.postimg.cc/CRFkTHg8/9.jpg" alt="9"/></a> <a href="https://postimg.cc/WFNSSFNm" target="_blank"><img src="https://i.postimg.cc/WFNSSFNm/1.jpg" alt="1"/></a><br/><br/>
 
 
 
